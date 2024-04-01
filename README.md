@@ -12,7 +12,7 @@ Streamlit User Interface: The application utilizes Streamlit to create an intera
 Cloud Deployment: The application is deployed in the cloud, making it accessible from anywhere with an internet connection.
 
 ## Deployment
-This application is deployed in the cloud "HuggingFace" using [hugging_face_deployed_model]([https://www.provider.com](https://huggingface.co/spaces/Gaurav069/Acko_insurance_app)).
+This application is deployed in the cloud "HuggingFace" using [hugging_face_deployed_model](https://huggingface.co/spaces/Gaurav069/Acko_insurance_app).
 
 ## Dependencies
 The application relies on the following dependencies:
